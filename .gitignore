@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+.git
+.venv
+uploaded_videos.json
+client_secrets.json
+service_account_key.json
+.env
+fly.toml
+id_rsa.pub
+instance/state_store.db
